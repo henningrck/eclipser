@@ -97,7 +97,7 @@
     ]]></change-notes>
 
     <!-- please see https://jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
-    <idea-version since-build="241"/>
+    <idea-version since-build="241" until-build="300"/>
 
     <actions>
         <action id="eclipser" class="com.kukido.eclipser.EclipserAction" text="Convert with Eclipser"
